@@ -1,0 +1,14 @@
+{
+  "server_ip": "1.2.3.4",
+  "app_port": 28082,
+  "steam_id": 76561199885131351,
+  "player_token": 123456789,
+  "sound_file": "siren.wav",
+  "antispam_sec": 30,
+  "debug": true,
+  "telegram_token": "123456789:AAEf...",
+  "telegram_chat_id": "123456789",
+  "alarm_names": {
+    "1234567": "Основная база"
+  }
+}
